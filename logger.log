@@ -1,0 +1,551 @@
+2018-04-09 21:09:47,270 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-09 21:09:47,478 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:09:47,478 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:09:47,478 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:09:47,478 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:11:27,890 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-09 21:11:28,111 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:11:28,112 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:11:28,112 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:11:28,112 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:16:20,993 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-09 21:16:21,194 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:16:21,194 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:16:21,194 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:16:21,195 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:19:02,038 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-09 21:19:02,299 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:19:02,299 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:19:02,299 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:19:02,299 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:19:21,425 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-09 21:19:21,643 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:19:21,643 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:19:21,644 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:19:21,644 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:19:21,816 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-09 21:19:22,226 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 710666625.
+2018-04-09 21:19:22,226 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a5be981]
+2018-04-09 21:19:22,230 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-09 21:20:35,569 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-09 21:20:35,767 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:20:35,767 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:20:35,768 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:20:35,768 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:20:35,905 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-09 21:20:36,187 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 710666625.
+2018-04-09 21:20:36,187 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a5be981]
+2018-04-09 21:20:36,192 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-09 21:20:36,257 DEBUG [client.queryfromUserName] - ==> Parameters: xiaoming(String)
+2018-04-09 21:20:36,281 DEBUG [client.queryfromUserName] - <==      Total: 0
+2018-04-09 21:20:36,282 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a5be981]
+2018-04-09 21:20:36,282 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a5be981]
+2018-04-09 21:20:36,283 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Returned connection 710666625 to pool.
+2018-04-09 21:59:54,066 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-09 21:59:54,557 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:59:54,557 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:59:54,557 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:59:54,557 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 21:59:54,855 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-09 21:59:55,569 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 2017405408.
+2018-04-09 21:59:55,569 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@783f29e0]
+2018-04-09 21:59:55,574 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-09 21:59:55,647 DEBUG [client.queryfromUserName] - ==> Parameters: xiaoming(String)
+2018-04-09 21:59:55,688 DEBUG [client.queryfromUserName] - <==      Total: 0
+2018-04-09 21:59:55,688 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@783f29e0]
+2018-04-09 21:59:55,689 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@783f29e0]
+2018-04-09 21:59:55,689 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Returned connection 2017405408 to pool.
+2018-04-09 22:01:14,129 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-09 22:01:14,419 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 22:01:14,419 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 22:01:14,419 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 22:01:14,419 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 22:01:14,580 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-09 22:01:14,903 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 665381623.
+2018-04-09 22:01:14,903 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@27a8eaf7]
+2018-04-09 22:01:14,909 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-09 22:01:15,011 DEBUG [client.queryfromUserName] - ==> Parameters: xiaoming(String)
+2018-04-09 22:01:15,036 DEBUG [client.queryfromUserName] - <==      Total: 0
+2018-04-09 22:01:15,037 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@27a8eaf7]
+2018-04-09 22:01:15,037 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@27a8eaf7]
+2018-04-09 22:01:15,038 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Returned connection 665381623 to pool.
+2018-04-09 22:06:52,015 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-09 22:06:52,334 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 22:06:52,334 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 22:06:52,334 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 22:06:52,334 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-09 22:06:52,489 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-09 22:06:52,859 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1121587832.
+2018-04-09 22:06:52,860 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@42da1278]
+2018-04-09 22:06:52,863 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-09 22:06:52,929 DEBUG [client.queryfromUserName] - ==> Parameters: xiaoming(String)
+2018-04-09 22:06:52,960 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-09 22:06:52,960 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@42da1278]
+2018-04-09 22:06:52,961 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@42da1278]
+2018-04-09 22:06:52,961 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Returned connection 1121587832 to pool.
+2018-04-10 00:34:38,610 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 00:34:38,806 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:34:38,807 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:34:38,807 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:34:38,807 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:34:38,973 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 00:34:39,211 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 2009069165.
+2018-04-10 00:34:39,211 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@77bff66d]
+2018-04-10 00:34:39,214 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 00:34:39,262 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 00:34:39,296 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 00:36:58,757 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 00:36:58,957 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:36:58,957 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:36:58,957 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:36:58,957 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:36:59,066 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 00:36:59,309 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 28760229.
+2018-04-10 00:36:59,310 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1b6d8a5]
+2018-04-10 00:36:59,313 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 00:36:59,361 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 00:36:59,396 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 00:37:26,118 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 00:37:26,281 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:37:26,281 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:37:26,281 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:37:26,281 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:37:26,397 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 00:37:26,669 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 28760229.
+2018-04-10 00:37:26,669 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1b6d8a5]
+2018-04-10 00:37:26,673 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 00:37:26,821 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 00:37:26,864 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 00:37:37,533 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 00:37:37,725 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:37:37,725 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:37:37,726 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:37:37,726 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:37:37,871 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 00:37:38,162 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 869807132.
+2018-04-10 00:37:38,162 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@33d8341c]
+2018-04-10 00:37:38,166 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 00:37:38,220 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 00:37:38,252 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 00:38:01,079 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 00:38:01,265 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:01,266 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:01,266 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:01,266 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:01,395 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 00:38:01,680 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 927282395.
+2018-04-10 00:38:01,680 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@374534db]
+2018-04-10 00:38:01,684 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 00:38:01,736 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 00:38:01,768 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 00:38:11,192 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 00:38:11,397 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:11,397 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:11,397 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:11,397 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:11,523 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 00:38:11,843 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 869807132.
+2018-04-10 00:38:11,843 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@33d8341c]
+2018-04-10 00:38:11,847 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 00:38:11,915 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 00:38:11,950 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 00:38:30,749 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 00:38:30,913 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:30,913 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:30,913 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:30,913 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:38:31,022 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 00:38:31,272 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 189348228.
+2018-04-10 00:38:31,272 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@b493984]
+2018-04-10 00:38:31,276 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 00:38:31,327 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 00:38:31,357 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 00:46:03,223 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 00:46:03,403 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:46:03,403 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:46:03,403 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:46:03,403 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:46:03,523 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 00:46:03,769 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1771671028.
+2018-04-10 00:46:03,769 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@69998df4]
+2018-04-10 00:46:03,773 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 00:46:03,830 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 00:46:03,861 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 00:47:01,106 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 00:47:01,369 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:47:01,369 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:47:01,369 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:47:01,369 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 00:47:01,526 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 00:47:01,883 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 520908137.
+2018-04-10 00:47:01,883 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1f0c6d69]
+2018-04-10 00:47:01,887 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 00:47:01,971 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 00:47:02,004 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 01:22:19,575 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:22:19,855 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:22:19,855 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:22:19,855 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:22:19,855 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:23:03,651 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:23:04,066 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:23:04,066 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:23:04,066 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:23:04,066 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:29:20,977 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:29:21,255 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:29:21,256 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:29:21,256 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:29:21,256 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:29:54,869 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:29:55,151 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:29:55,151 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:29:55,151 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:29:55,151 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:30:06,195 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:30:06,426 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:30:06,426 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:30:06,426 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:30:06,427 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:02,598 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:31:02,858 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:02,859 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:02,859 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:02,859 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:39,991 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:31:40,185 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:40,185 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:40,185 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:40,185 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:50,886 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:31:51,119 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:51,120 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:51,120 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:31:51,120 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:33:31,043 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:33:31,209 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:33:31,209 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:33:31,209 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:33:31,209 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:34:11,125 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:34:11,336 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:34:11,337 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:34:11,337 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:34:11,337 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:35:20,971 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:35:21,178 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:35:21,179 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:35:21,179 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:35:21,179 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:37:37,584 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:37:37,786 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:37:37,786 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:37:37,786 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:37:37,786 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:38:14,367 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:38:14,564 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:38:14,564 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:38:14,564 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:38:14,565 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:39:46,894 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:39:47,103 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:39:47,104 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:39:47,104 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:39:47,104 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:42:06,486 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:42:06,667 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:42:06,668 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:42:06,668 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:42:06,668 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:42:06,798 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 01:42:07,074 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1963617384.
+2018-04-10 01:42:07,074 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@750a6c68]
+2018-04-10 01:42:07,078 DEBUG [client.updatefromUserName] - ==>  Preparing: UPDATE t_client SET fromUserName = 'omSx_0d5yAoD0IH9BHTo_181haco', integral =10 where fromUserName = 'omSx_0d5yAoD0IH9BHTo_181haco' 
+2018-04-10 01:42:07,126 DEBUG [client.updatefromUserName] - ==> Parameters: 
+2018-04-10 01:42:29,176 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:42:29,357 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:42:29,357 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:42:29,357 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:42:29,357 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:42:29,486 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 01:42:29,818 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1956819896.
+2018-04-10 01:42:29,819 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@74a2b3b8]
+2018-04-10 01:42:29,824 DEBUG [client.updatefromUserName] - ==>  Preparing: UPDATE t_client SET fromUserName = 'omSx_0d5yAoD0IH9BHTo_181haco', integral =10 where fromUserName = 'omSx_0d5yAoD0IH9BHTo_181haco' 
+2018-04-10 01:42:29,873 DEBUG [client.updatefromUserName] - ==> Parameters: 
+2018-04-10 01:42:56,794 DEBUG [client.updatefromUserName] - <==    Updates: 1
+2018-04-10 01:42:56,795 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@750a6c68]
+2018-04-10 01:42:56,796 DEBUG [client.updatefromUserName] - <==    Updates: 1
+2018-04-10 01:42:56,796 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@74a2b3b8]
+2018-04-10 01:43:31,658 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:43:31,840 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:43:31,840 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:43:31,841 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:43:31,841 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:43:31,965 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 01:43:32,220 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 2136169439.
+2018-04-10 01:43:32,220 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7f535bdf]
+2018-04-10 01:43:32,224 DEBUG [client.updatefromUserName] - ==>  Preparing: UPDATE t_client SET fromUserName = "omSx_0d5yAoD0IH9BHTo_181haco", integral =10 where fromUserName = "omSx_0d5yAoD0IH9BHTo_181haco" 
+2018-04-10 01:43:32,281 DEBUG [client.updatefromUserName] - ==> Parameters: 
+2018-04-10 01:43:32,282 DEBUG [client.updatefromUserName] - <==    Updates: 1
+2018-04-10 01:43:32,282 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7f535bdf]
+2018-04-10 01:50:56,251 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 01:50:56,460 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:50:56,460 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:50:56,460 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:50:56,460 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 01:50:56,584 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 01:50:56,860 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 477542874.
+2018-04-10 01:50:56,861 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c76b9da]
+2018-04-10 01:50:56,864 DEBUG [client.updatefromUserName] - ==>  Preparing: UPDATE t_client SET fromUserName = ?, numberOfDays =?, toDay=?, integral=? where fromUserName = ? 
+2018-04-10 01:50:56,928 DEBUG [client.updatefromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String), 10(Integer), 2018-04-10 00:00:00.0(Timestamp), 100(Integer), omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 01:50:56,929 DEBUG [client.updatefromUserName] - <==    Updates: 1
+2018-04-10 01:50:56,930 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c76b9da]
+2018-04-10 21:32:13,134 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 21:32:13,319 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:13,319 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:13,319 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:13,319 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:13,468 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 21:32:13,793 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1692996197.
+2018-04-10 21:32:13,793 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@64e91265]
+2018-04-10 21:32:13,796 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 21:32:13,849 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:32:13,921 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 21:32:29,491 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 21:32:29,787 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:29,787 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:29,787 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:29,788 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:29,944 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 21:32:30,270 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1281345721.
+2018-04-10 21:32:30,271 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4c5fc8b9]
+2018-04-10 21:32:30,274 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 21:32:30,336 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:32:30,368 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 21:32:40,850 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 21:32:41,098 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:41,099 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:41,099 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:41,099 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:32:44,819 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 21:32:45,298 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 579648989.
+2018-04-10 21:32:45,299 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@228cbddd]
+2018-04-10 21:32:45,304 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 21:32:45,537 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:32:45,723 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 21:33:09,546 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 21:33:09,812 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:33:09,812 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:33:09,813 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:33:09,813 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:33:14,565 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 21:33:15,051 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1949469724.
+2018-04-10 21:33:15,052 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@74328c1c]
+2018-04-10 21:33:15,057 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 21:33:15,275 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:33:15,452 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 21:40:59,332 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 21:40:59,537 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:40:59,537 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:40:59,537 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:40:59,538 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:40:59,695 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 21:40:59,954 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1771671028.
+2018-04-10 21:40:59,954 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@69998df4]
+2018-04-10 21:40:59,957 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 21:41:00,018 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:41:00,053 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 21:41:00,053 DEBUG [client.updatenowTheIntegral] - ==>  Preparing: UPDATE t_client SET nowTheIntegral = ? where fromUserName = ? 
+2018-04-10 21:41:00,054 DEBUG [client.updatenowTheIntegral] - ==> Parameters: 100(Integer), omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:41:00,055 DEBUG [client.updatenowTheIntegral] - <==    Updates: 1
+2018-04-10 21:43:41,813 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 21:43:42,049 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:43:42,049 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:43:42,049 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:43:42,049 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:43:46,097 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 21:43:46,559 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 588719767.
+2018-04-10 21:43:46,559 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@23172697]
+2018-04-10 21:43:46,565 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 21:43:46,796 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:43:46,969 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 21:43:57,077 DEBUG [client.updatenowTheIntegral] - ==>  Preparing: UPDATE t_client SET nowTheIntegral = ? where fromUserName = ? 
+2018-04-10 21:43:57,078 DEBUG [client.updatenowTheIntegral] - ==> Parameters: 100(Integer), omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:43:57,080 DEBUG [client.updatenowTheIntegral] - <==    Updates: 1
+2018-04-10 21:48:07,959 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 21:48:08,209 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:48:08,209 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:48:08,209 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:48:08,209 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:48:11,236 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 21:48:11,727 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 200882642.
+2018-04-10 21:48:11,728 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@bf939d2]
+2018-04-10 21:48:11,733 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 21:48:11,975 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:48:12,170 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 21:50:48,359 DEBUG [client.updatenowTheIntegral] - ==>  Preparing: UPDATE t_client SET nowTheIntegral = ? where fromUserName = ? 
+2018-04-10 21:50:48,361 DEBUG [client.updatenowTheIntegral] - ==> Parameters: 100(Integer), omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:50:48,362 DEBUG [client.updatenowTheIntegral] - <==    Updates: 1
+2018-04-10 21:51:14,563 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 21:51:14,775 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:51:14,775 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:51:14,775 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:51:14,776 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:51:14,903 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 21:51:15,170 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1692996197.
+2018-04-10 21:51:15,170 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@64e91265]
+2018-04-10 21:51:15,175 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 21:51:15,234 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:51:15,273 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 21:51:15,274 DEBUG [client.updatenowTheIntegral] - ==>  Preparing: UPDATE t_client SET nowTheIntegral = ? where fromUserName = ? 
+2018-04-10 21:51:15,275 DEBUG [client.updatenowTheIntegral] - ==> Parameters: 100(Integer), omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:51:15,275 DEBUG [client.updatenowTheIntegral] - <==    Updates: 1
+2018-04-10 21:51:54,908 DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-04-10 21:51:55,127 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:51:55,127 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:51:55,127 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:51:55,127 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-04-10 21:51:55,261 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-04-10 21:51:55,530 DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - Created connection 1771671028.
+2018-04-10 21:51:55,530 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@69998df4]
+2018-04-10 21:51:55,534 DEBUG [client.queryfromUserName] - ==>  Preparing: select * from t_client where fromUserName = ? 
+2018-04-10 21:51:55,600 DEBUG [client.queryfromUserName] - ==> Parameters: omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:51:55,634 DEBUG [client.queryfromUserName] - <==      Total: 1
+2018-04-10 21:51:55,635 DEBUG [client.updatenowTheIntegral] - ==>  Preparing: UPDATE t_client SET nowTheIntegral = ? where fromUserName = ? 
+2018-04-10 21:51:55,636 DEBUG [client.updatenowTheIntegral] - ==> Parameters: 100(Integer), omSx_0d5yAoD0IH9BHTo_181haco(String)
+2018-04-10 21:51:55,637 DEBUG [client.updatenowTheIntegral] - <==    Updates: 1
+2018-04-10 21:51:55,637 DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@69998df4]
+2019-04-16 21:06:04,816 DEBUG [org.apache.http.client.protocol.RequestAddCookies] - CookieSpec selected: default
+2019-04-16 21:06:04,852 DEBUG [org.apache.http.client.protocol.RequestAuthCache] - Auth cache not set in the context
+2019-04-16 21:06:04,856 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection request: [route: {s}->https://api.weixin.qq.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-04-16 21:06:04,905 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection leased: [id: 0][route: {s}->https://api.weixin.qq.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-04-16 21:06:04,908 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Opening connection {s}->https://api.weixin.qq.com:443
+2019-04-16 21:06:04,931 DEBUG [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] - Connecting to api.weixin.qq.com/183.61.49.149:443
+2019-04-16 21:06:04,931 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Connecting socket to api.weixin.qq.com/183.61.49.149:443 with timeout 0
+2019-04-16 21:06:05,093 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-04-16 21:06:05,093 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-04-16 21:06:05,093 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Starting handshake
+2019-04-16 21:06:05,365 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Secure session established
+2019-04-16 21:06:05,365 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  negotiated protocol: TLSv1.2
+2019-04-16 21:06:05,365 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+2019-04-16 21:06:05,365 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  peer principal: CN=mp.weixin.qq.com, OU=R&D, O=Shenzhen Tencent Computer Systems Company Limited, L=Shenzhen, ST=Guangdong, C=CN
+2019-04-16 21:06:05,365 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  peer alternative names: [mp.weixin.qq.com, api.weixin.qq.com, a.weixin.qq.com, hk.mp.weixin.qq.com, minigame.weixin.qq.com, ad.weixin.qq.com, developers.weixin.qq.com, rd.wechatapp.com, api2.weixin.qq.com, hk.open.weixin.qq.com, sz.open.weixin.qq.com, servicewechat.com, game.weixin.qq.com, long.open.weixin.qq.com, open.weixin.qq.com, sh.api.weixin.qq.com, sz.api.weixin.qq.com, as.weixin.qq.com, hk.api.weixin.qq.com, sz.mp.weixin.qq.com, mp.weixinbridge.com]
+2019-04-16 21:06:05,366 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  issuer principal: CN=GeoTrust RSA CA 2018, OU=www.digicert.com, O=DigiCert Inc, C=US
+2019-04-16 21:06:05,370 DEBUG [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] - Connection established 192.168.1.104:61106<->183.61.49.149:443
+2019-04-16 21:06:05,370 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Executing request GET /cgi-bin/token?grant_type=client_credential&appid=wxb8f2515ffd919ad7&secret=6f23203a9a6d5ae8948d81ae7df18af3 HTTP/1.1
+2019-04-16 21:06:05,370 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Target auth state: UNCHALLENGED
+2019-04-16 21:06:05,371 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Proxy auth state: UNCHALLENGED
+2019-04-16 21:06:05,372 DEBUG [org.apache.http.headers] - http-outgoing-0 >> GET /cgi-bin/token?grant_type=client_credential&appid=wxb8f2515ffd919ad7&secret=6f23203a9a6d5ae8948d81ae7df18af3 HTTP/1.1
+2019-04-16 21:06:05,372 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Host: api.weixin.qq.com
+2019-04-16 21:06:05,373 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Connection: Keep-Alive
+2019-04-16 21:06:05,373 DEBUG [org.apache.http.headers] - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_121)
+2019-04-16 21:06:05,373 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-04-16 21:06:05,373 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "GET /cgi-bin/token?grant_type=client_credential&appid=wxb8f2515ffd919ad7&secret=6f23203a9a6d5ae8948d81ae7df18af3 HTTP/1.1[\r][\n]"
+2019-04-16 21:06:05,373 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Host: api.weixin.qq.com[\r][\n]"
+2019-04-16 21:06:05,373 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-04-16 21:06:05,373 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_121)[\r][\n]"
+2019-04-16 21:06:05,373 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-04-16 21:06:05,373 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "[\r][\n]"
+2019-04-16 21:06:05,545 DEBUG [org.apache.http.wire] - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-04-16 21:06:05,545 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2019-04-16 21:06:05,545 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Content-Type: application/json; encoding=utf-8[\r][\n]"
+2019-04-16 21:06:05,545 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Date: Tue, 16 Apr 2019 13:06:08 GMT[\r][\n]"
+2019-04-16 21:06:05,545 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Content-Length: 194[\r][\n]"
+2019-04-16 21:06:05,545 DEBUG [org.apache.http.wire] - http-outgoing-0 << "[\r][\n]"
+2019-04-16 21:06:05,546 DEBUG [org.apache.http.wire] - http-outgoing-0 << "{"access_token":"20_3tmL8GA7TZrwJ4uyUjAoAdHUkIXSEuGQ_vsRs9MQ8qYOXDTmNv1DDk0NNgpW9MnSUii34JRIL567hw2pekAnBfzUmUhJ_flDCLTAcafcMP2Nrk0qSi4p3DsGI7uaXDACpoa1XzKatKhyBexzAKUiACAUEO","expires_in":7200}"
+2019-04-16 21:06:05,549 DEBUG [org.apache.http.headers] - http-outgoing-0 << HTTP/1.1 200 OK
+2019-04-16 21:06:05,549 DEBUG [org.apache.http.headers] - http-outgoing-0 << Connection: keep-alive
+2019-04-16 21:06:05,549 DEBUG [org.apache.http.headers] - http-outgoing-0 << Content-Type: application/json; encoding=utf-8
+2019-04-16 21:06:05,549 DEBUG [org.apache.http.headers] - http-outgoing-0 << Date: Tue, 16 Apr 2019 13:06:08 GMT
+2019-04-16 21:06:05,550 DEBUG [org.apache.http.headers] - http-outgoing-0 << Content-Length: 194
+2019-04-16 21:06:05,556 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Connection can be kept alive indefinitely
+2019-04-16 21:06:05,563 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection [id: 0][route: {s}->https://api.weixin.qq.com:443] can be kept alive indefinitely
+2019-04-16 21:06:05,563 DEBUG [org.apache.http.impl.conn.DefaultManagedHttpClientConnection] - http-outgoing-0: set socket timeout to 0
+2019-04-16 21:06:05,563 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection released: [id: 0][route: {s}->https://api.weixin.qq.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-04-16 21:06:05,922 DEBUG [org.apache.http.client.protocol.RequestAddCookies] - CookieSpec selected: default
+2019-04-16 21:06:05,923 DEBUG [org.apache.http.client.protocol.RequestAuthCache] - Auth cache not set in the context
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection request: [route: {s}->https://api.weixin.qq.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection leased: [id: 0][route: {s}->https://api.weixin.qq.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.impl.conn.DefaultManagedHttpClientConnection] - http-outgoing-0: set socket timeout to 0
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Executing request POST /cgi-bin/menu/create?access_token=20_3tmL8GA7TZrwJ4uyUjAoAdHUkIXSEuGQ_vsRs9MQ8qYOXDTmNv1DDk0NNgpW9MnSUii34JRIL567hw2pekAnBfzUmUhJ_flDCLTAcafcMP2Nrk0qSi4p3DsGI7uaXDACpoa1XzKatKhyBexzAKUiACAUEO HTTP/1.1
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Target auth state: UNCHALLENGED
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Proxy auth state: UNCHALLENGED
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.headers] - http-outgoing-0 >> POST /cgi-bin/menu/create?access_token=20_3tmL8GA7TZrwJ4uyUjAoAdHUkIXSEuGQ_vsRs9MQ8qYOXDTmNv1DDk0NNgpW9MnSUii34JRIL567hw2pekAnBfzUmUhJ_flDCLTAcafcMP2Nrk0qSi4p3DsGI7uaXDACpoa1XzKatKhyBexzAKUiACAUEO HTTP/1.1
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Content-Length: 131
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Content-Type: text/plain; charset=UTF-8
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Host: api.weixin.qq.com
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Connection: Keep-Alive
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.headers] - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_121)
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "POST /cgi-bin/menu/create?access_token=20_3tmL8GA7TZrwJ4uyUjAoAdHUkIXSEuGQ_vsRs9MQ8qYOXDTmNv1DDk0NNgpW9MnSUii34JRIL567hw2pekAnBfzUmUhJ_flDCLTAcafcMP2Nrk0qSi4p3DsGI7uaXDACpoa1XzKatKhyBexzAKUiACAUEO HTTP/1.1[\r][\n]"
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Content-Length: 131[\r][\n]"
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Content-Type: text/plain; charset=UTF-8[\r][\n]"
+2019-04-16 21:06:05,925 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Host: api.weixin.qq.com[\r][\n]"
+2019-04-16 21:06:05,926 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-04-16 21:06:05,926 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_121)[\r][\n]"
+2019-04-16 21:06:05,926 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-04-16 21:06:05,926 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "[\r][\n]"
+2019-04-16 21:06:05,926 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "{"button":[{"type":"view","name":"[0xe7][0x99][0xbe][0xe5][0xba][0xa6]","key":null,"url":"http://www.baidu.com","sub_button":[]}],"matchrule":null,"menuid":null}"
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.wire] - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Date: Tue, 16 Apr 2019 13:06:08 GMT[\r][\n]"
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Content-Type: application/json; encoding=utf-8[\r][\n]"
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Content-Length: 69[\r][\n]"
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.wire] - http-outgoing-0 << "[\r][\n]"
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.wire] - http-outgoing-0 << "{"errcode":48001,"errmsg":"api unauthorized hint: [7EiWYa0968c442!]"}"
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.headers] - http-outgoing-0 << HTTP/1.1 200 OK
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.headers] - http-outgoing-0 << Connection: keep-alive
+2019-04-16 21:06:06,042 DEBUG [org.apache.http.headers] - http-outgoing-0 << Date: Tue, 16 Apr 2019 13:06:08 GMT
+2019-04-16 21:06:06,043 DEBUG [org.apache.http.headers] - http-outgoing-0 << Content-Type: application/json; encoding=utf-8
+2019-04-16 21:06:06,043 DEBUG [org.apache.http.headers] - http-outgoing-0 << Content-Length: 69
+2019-04-16 21:06:06,043 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Connection can be kept alive indefinitely
+2019-04-16 21:06:06,044 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection [id: 0][route: {s}->https://api.weixin.qq.com:443] can be kept alive indefinitely
+2019-04-16 21:06:06,044 DEBUG [org.apache.http.impl.conn.DefaultManagedHttpClientConnection] - http-outgoing-0: set socket timeout to 0
+2019-04-16 21:06:06,044 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection released: [id: 0][route: {s}->https://api.weixin.qq.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-04-16 22:06:29,522 DEBUG [org.apache.http.client.protocol.RequestAddCookies] - CookieSpec selected: default
+2019-04-16 22:06:29,574 DEBUG [org.apache.http.client.protocol.RequestAuthCache] - Auth cache not set in the context
+2019-04-16 22:06:29,580 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection request: [route: {s}->https://api.weixin.qq.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-04-16 22:06:29,628 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection leased: [id: 0][route: {s}->https://api.weixin.qq.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-04-16 22:06:29,630 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Opening connection {s}->https://api.weixin.qq.com:443
+2019-04-16 22:06:30,713 DEBUG [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] - Connecting to api.weixin.qq.com/183.57.48.62:443
+2019-04-16 22:06:30,713 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Connecting socket to api.weixin.qq.com/183.57.48.62:443 with timeout 0
+2019-04-16 22:06:30,785 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-04-16 22:06:30,786 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-04-16 22:06:30,786 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Starting handshake
+2019-04-16 22:06:31,133 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] - Secure session established
+2019-04-16 22:06:31,133 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  negotiated protocol: TLSv1.2
+2019-04-16 22:06:31,133 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+2019-04-16 22:06:31,133 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  peer principal: CN=mp.weixin.qq.com, OU=R&D, O=Shenzhen Tencent Computer Systems Company Limited, L=Shenzhen, ST=Guangdong, C=CN
+2019-04-16 22:06:31,134 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  peer alternative names: [mp.weixin.qq.com, api.weixin.qq.com, a.weixin.qq.com, hk.mp.weixin.qq.com, minigame.weixin.qq.com, ad.weixin.qq.com, developers.weixin.qq.com, rd.wechatapp.com, api2.weixin.qq.com, hk.open.weixin.qq.com, sz.open.weixin.qq.com, servicewechat.com, game.weixin.qq.com, long.open.weixin.qq.com, open.weixin.qq.com, sh.api.weixin.qq.com, sz.api.weixin.qq.com, as.weixin.qq.com, hk.api.weixin.qq.com, sz.mp.weixin.qq.com, mp.weixinbridge.com]
+2019-04-16 22:06:31,134 DEBUG [org.apache.http.conn.ssl.SSLConnectionSocketFactory] -  issuer principal: CN=GeoTrust RSA CA 2018, OU=www.digicert.com, O=DigiCert Inc, C=US
+2019-04-16 22:06:31,140 DEBUG [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] - Connection established 192.168.1.104:62516<->183.57.48.62:443
+2019-04-16 22:06:31,140 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Executing request GET /cgi-bin/token?grant_type=client_credential&appid=wxb8f2515ffd919ad7&secret=6f23203a9a6d5ae8948d81ae7df18af3 HTTP/1.1
+2019-04-16 22:06:31,141 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Target auth state: UNCHALLENGED
+2019-04-16 22:06:31,141 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Proxy auth state: UNCHALLENGED
+2019-04-16 22:06:31,143 DEBUG [org.apache.http.headers] - http-outgoing-0 >> GET /cgi-bin/token?grant_type=client_credential&appid=wxb8f2515ffd919ad7&secret=6f23203a9a6d5ae8948d81ae7df18af3 HTTP/1.1
+2019-04-16 22:06:31,144 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Host: api.weixin.qq.com
+2019-04-16 22:06:31,144 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Connection: Keep-Alive
+2019-04-16 22:06:31,144 DEBUG [org.apache.http.headers] - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_121)
+2019-04-16 22:06:31,144 DEBUG [org.apache.http.headers] - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-04-16 22:06:31,144 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "GET /cgi-bin/token?grant_type=client_credential&appid=wxb8f2515ffd919ad7&secret=6f23203a9a6d5ae8948d81ae7df18af3 HTTP/1.1[\r][\n]"
+2019-04-16 22:06:31,144 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Host: api.weixin.qq.com[\r][\n]"
+2019-04-16 22:06:31,144 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-04-16 22:06:31,145 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_121)[\r][\n]"
+2019-04-16 22:06:31,145 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-04-16 22:06:31,145 DEBUG [org.apache.http.wire] - http-outgoing-0 >> "[\r][\n]"
+2019-04-16 22:06:31,241 DEBUG [org.apache.http.wire] - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-04-16 22:06:31,241 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2019-04-16 22:06:31,241 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Content-Type: application/json; encoding=utf-8[\r][\n]"
+2019-04-16 22:06:31,241 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Date: Tue, 16 Apr 2019 14:06:33 GMT[\r][\n]"
+2019-04-16 22:06:31,241 DEBUG [org.apache.http.wire] - http-outgoing-0 << "Content-Length: 93[\r][\n]"
+2019-04-16 22:06:31,241 DEBUG [org.apache.http.wire] - http-outgoing-0 << "[\r][\n]"
+2019-04-16 22:06:31,242 DEBUG [org.apache.http.wire] - http-outgoing-0 << "{"errcode":40164,"errmsg":"invalid ip 61.140.126.203, not in whitelist hint: [GixU0593hb10]"}"
+2019-04-16 22:06:31,244 DEBUG [org.apache.http.headers] - http-outgoing-0 << HTTP/1.1 200 OK
+2019-04-16 22:06:31,244 DEBUG [org.apache.http.headers] - http-outgoing-0 << Connection: keep-alive
+2019-04-16 22:06:31,244 DEBUG [org.apache.http.headers] - http-outgoing-0 << Content-Type: application/json; encoding=utf-8
+2019-04-16 22:06:31,244 DEBUG [org.apache.http.headers] - http-outgoing-0 << Date: Tue, 16 Apr 2019 14:06:33 GMT
+2019-04-16 22:06:31,244 DEBUG [org.apache.http.headers] - http-outgoing-0 << Content-Length: 93
+2019-04-16 22:06:31,247 DEBUG [org.apache.http.impl.execchain.MainClientExec] - Connection can be kept alive indefinitely
+2019-04-16 22:06:31,252 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection [id: 0][route: {s}->https://api.weixin.qq.com:443] can be kept alive indefinitely
+2019-04-16 22:06:31,252 DEBUG [org.apache.http.impl.conn.DefaultManagedHttpClientConnection] - http-outgoing-0: set socket timeout to 0
+2019-04-16 22:06:31,253 DEBUG [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] - Connection released: [id: 0][route: {s}->https://api.weixin.qq.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]

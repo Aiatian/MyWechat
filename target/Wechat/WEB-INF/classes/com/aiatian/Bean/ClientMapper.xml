@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="client" >
+		
+	<insert id="addfromUserName">
+		insert into t_client(fromUserName,numberOfDays,toDay,integral,nowTheIntegral) values(#{fromUserName},#{numberOfDays},#{toDay},#{integral},#{nowTheIntegral})
+	</insert>
+
+	<select id="queryfromUserName" parameterType="java.lang.String" resultType="com.aiatian.Po.Client">
+
+		select * from t_client where fromUserName = #{fromUserName}
+
+	</select>
+
+
+	<select id="querynumberOfDays" parameterType="java.lang.String" resultType="com.aiatian.Po.Client">
+
+		select * from t_client where fromUserName = #{fromUserName}
+
+	</select>
+
+
+
+	<update id="updatefromUserName"  parameterType="com.aiatian.Po.Client">
+		UPDATE t_client SET  fromUserName = #{fromUserName},
+		    numberOfDays =#{numberOfDays},
+		    toDay=#{toDay},
+		    integral=#{integral}
+		where fromUserName = #{fromUserName}
+	</update>
+
+
+	<update id="updatenowTheIntegral"  parameterType="com.aiatian.Po.Client">
+		UPDATE t_client SET nowTheIntegral = #{nowTheIntegral}
+		where fromUserName = #{fromUserName}
+	</update>
+</mapper>
