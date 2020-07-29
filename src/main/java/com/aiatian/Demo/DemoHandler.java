@@ -29,15 +29,7 @@ public class DemoHandler implements WxMessageHandler {
 
         if (type.equalsIgnoreCase("text")) {
             wxMessage.setContent(wxMessage.getContent().replace(" ",""));
-            if (wxMessage.getContent().equals("你妈妈是谁")) {
-                //必须以build()作为结尾，否则不生效。
-                WxXmlOutMessage xmlOutMsg = WxXmlOutMessage.TEXT().content("小绿叶的妈妈就是美丽的开发工程师妈妈").toUser(wxMessage.getFromUserName()).fromUser(wxMessage.getToUserName()).build();
-                return xmlOutMsg;
-
-            } else if (wxMessage.getContent().equals("你爸爸是谁")) {
-                WxXmlOutMessage xmlOutMsg = WxXmlOutMessage.TEXT().content("小绿叶的爸爸是秋叶").toUser(wxMessage.getFromUserName()).fromUser(wxMessage.getToUserName()).build();
-                return xmlOutMsg;
-            } else if (wxMessage.getContent().equals("签到")){
+            if (wxMessage.getContent().equals("签到")){
 
 
                 try {
